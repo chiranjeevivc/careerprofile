@@ -1,5 +1,4 @@
-# careerprofile
-Chiranjeevi's career profile
+#Chiranjeevi's career profile
 
 # Email:  	chiranjeevivc@gmail.com
 # Mobile:   +1 860 712 5940	
