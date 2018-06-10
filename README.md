@@ -24,9 +24,9 @@ Experienced DevOps Engineer who understands the melding of operations and develo
 - Developing automated solutions in place of manual processes.
 
 # Certifications:
-- IBM Rational Functional Tester 
-- IBM Rational Application Developer for WebSphere
-- ISTQB Certification – Foundation Level 
+- IBM Rational Functional Tester - [RFT](https://github.com/chiranjeevivc/careerprofile/blob/master/resume/IBM_RFT.pdf)
+- IBM Rational Application Developer for WebSphere - [RAD](https://github.com/chiranjeevivc/careerprofile/blob/master/resume/IBM_RAD.pdf)
+- ISTQB Certification – Foundation Level - [ISTQB](https://github.com/chiranjeevivc/careerprofile/blob/master/resume/ISTQB.jpg)
 
 # Career Profile:
 #### Senior DevOps Engineer							          
