@@ -2,9 +2,6 @@
 <img src="resume/githubprofile.png" align="right" width="25%" height="25%" />
 
 ### Contact Information
-###### Email:  	chiranjeevivc@gmail.com 
-###### Mobile:   +1 860 712 5940
-###### Address: 75 Hockanum Blvd, Unit 2622, Vernon, CT 06066 
 
 <p>Email &emsp;&emsp;&nbsp; : chiranjeevivc@gmail.com
 <br>Mobile &emsp;&nbsp;&nbsp; : +1 860 712 5940<br>Address &emsp; : 75 Hockanum Blvd, Unit 2622, Vernon, CT 06066</p>
