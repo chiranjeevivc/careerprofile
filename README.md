@@ -1,11 +1,14 @@
-#Chiranjeevi's career profile
+# Chiranjeevi's Career Profile
+<img src="githubprofile.png" align="right" width="25%" height="25%" />
 
-# Email:  	chiranjeevivc@gmail.com
-# Mobile:   +1 860 712 5940	
-# Address: 75 Hockanum Blvd, Unit 2622, Vernon, CT 06066      	                                                             			 
+### Contact Information
+###### Email:  	chiranjeevivc@gmail.com 
+###### Mobile:   +1 860 712 5940
+###### Address: 75 Hockanum Blvd, Unit 2622, Vernon, CT 06066      	                                                             			 
 
-Objective:  To perceive a challenging career, through which I can excel my organization and myself.
-Professional Summary:
+## Enthusiastic DevOps Engineer who loves challenging work through which I can excel myself and my organization.
+
+# Professional Summary:
 Experienced DevOps Engineer who understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows Mac and Linux systems. Brings a Bachelor’s Degree in Computer Science and Engineering and has total of 6.3 years of experience in IT field.
 Core Qualifications:
 •	Extremely knowledgeable about CI/CD integration.
