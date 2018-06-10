@@ -5,6 +5,7 @@
 
 <p>Email &emsp;&emsp;&nbsp; : chiranjeevivc@gmail.com
 <br>Mobile &emsp;&nbsp;&nbsp; : +1 860 712 5940<br>Address &emsp; : 75 Hockanum Blvd, Unit 2622, Vernon, CT 06066</p>
+> View/Download resume here [ChiranjeeviResume.doc](https://github.com/chiranjeevivc/careerprofile/blob/master/resume/ChiranjeeviChandrashekarResume.doc)
 
 ## Enthusiastic DevOps Engineer who loves challenging work through which I can excel myself and my organization.
 
@@ -87,3 +88,4 @@ Experienced **DevOps Engineer** who understands the melding of operations and de
 
 # LinkedIn
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="chiranjeeviacharya"><a class="LI-simple-link" href='https://www.linkedin.com/in/chiranjeeviacharya?trk=profile-badge'>Chiranjeevi Chandrashekar</a></div>
+
