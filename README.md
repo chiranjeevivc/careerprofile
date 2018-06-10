@@ -1,5 +1,5 @@
 # Chiranjeevi's Career Profile
-<img src="githubprofile.png" align="right" width="25%" height="25%" />
+<img src="resume/githubprofile.png" align="right" width="25%" height="25%" />
 
 ### Contact Information
 ###### Email:  	chiranjeevivc@gmail.com 
