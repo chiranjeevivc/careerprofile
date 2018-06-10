@@ -85,5 +85,5 @@ Experienced DevOps Engineer who understands the melding of operations and develo
 - Migration of projects from ant to maven.
 - Tools and Skills: Eclipse, SVN, JUnit test case development, Sonar.
 
-Contact Chiranjeevi on LinkedIn
+# LinkedIn
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="chiranjeeviacharya"><a class="LI-simple-link" href='https://www.linkedin.com/in/chiranjeeviacharya?trk=profile-badge'>Chiranjeevi Chandrashekar</a></div>
