@@ -9,7 +9,7 @@
 ## Enthusiastic DevOps Engineer who loves challenging work through which I can excel myself and my organization.
 
 # Professional Summary:
-Experienced DevOps Engineer who understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows Mac and Linux systems. Brings a **Bachelor’s Degree in Computer Science and Engineering** and has total of **6.3 years** of experience in IT field.
+Experienced **DevOps Engineer** who understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows Mac and Linux systems. Brings a **Bachelor’s Degree in Computer Science and Engineering** and has total of **6.3 years** of experience in IT field.
 
 # Core Qualifications:
 - Extremely knowledgeable about CI/CD integration.
