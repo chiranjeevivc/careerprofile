@@ -65,24 +65,25 @@ Experienced DevOps Engineer who understands the melding of operations and develo
 - I have made use of tools like Visual Studio (15), Visual Studio Code and Eclipse during the development.
 - Worked on unit tests and coverage report setup using NUnit and OpenCover	
 
-Systems Engineer							          
-Tata Consultancy Services 
-Bangalore, India 							          03/22/2012-02/18/2015
+#### Systems Engineer							          
+##### Tata Consultancy Services 
+###### Bangalore, India 							          03/22/2012-02/18/2015
 
-Project1: Ericsson  
-•	Worked on telecom products like TMF and AXE for Italy, China and Sweden clients.
-•	Handled roles like test automation and configuration management. 
-•	Good in code merge and release activities with IBM’s Clear case.
-•	Key player in migrating projects from Clear case to Git.
-•	Building projects with ant and create network packages for server deployment.
-•	Create/Update release documents.
-•	Test Automation with TestNG.
-•	Tools and Skills: Core Java, Eclipse, IBM Clearcase, Maven, Git, TestNG, Jenkins, TCP/IP Networking.
+#### Project1: Ericsson  
+- Worked on telecom products like TMF and AXE for Italy, China and Sweden clients.
+- Handled roles like test automation and configuration management. 
+- Good in code merge and release activities with IBM’s Clear case.
+- Key player in migrating projects from Clear case to Git.
+- Building projects with ant and create network packages for server deployment.
+- Create/Update release documents.
+- Test Automation with TestNG.
+- Tools and Skills: Core Java, Eclipse, IBM Clearcase, Maven, Git, TestNG, Jenkins, TCP/IP Networking.
 
-Project2: British Telecom
-•	Developer for British Telecom project working for UK clients.
-•	Core Java skills with Telecom Bundle Products.
-•	Migration of projects from ant to maven.
-•	Tools and Skills: Eclipse, SVN, JUnit test case development, Sonar.
+#### Project2: British Telecom
+- Developer for British Telecom project working for UK clients.
+- Core Java skills with Telecom Bundle Products.
+- Migration of projects from ant to maven.
+- Tools and Skills: Eclipse, SVN, JUnit test case development, Sonar.
 
+Contact Chiranjeevi on LinkedIn
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="chiranjeeviacharya"><a class="LI-simple-link" href='https://www.linkedin.com/in/chiranjeeviacharya?trk=profile-badge'>Chiranjeevi Chandrashekar</a></div>
