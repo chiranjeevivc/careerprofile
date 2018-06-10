@@ -11,7 +11,7 @@
 ## Enthusiastic DevOps Engineer who loves challenging work through which I can excel myself and my organization.
 
 # Professional Summary:
-Experienced **DevOps Engineer** who understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows Mac and Linux systems. Brings a **Bachelor’s Degree in Computer Science and Engineering** and has total of **6.3 years** of experience in IT field.
+<p align="justify"> Experienced <b>DevOps Engineer</b> who understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows Mac and Linux systems. Brings a <b>Bachelor’s Degree in Computer Science and Engineering</b> and has total of <b>6.3 years</b> of experience in IT field. </p>
 
 # Core Qualifications:
 - Extremely knowledgeable about **CI/CD integration**.
@@ -31,10 +31,11 @@ Experienced **DevOps Engineer** who understands the melding of operations and de
 - ISTQB Certification – Foundation Level - [ISTQB](https://github.com/chiranjeevivc/careerprofile/blob/master/resume/ISTQB.jpg)
 
 # Career Profile:
-#### Senior DevOps Engineer							          
-##### Accenture 
-###### Hartford, Connecticut 							                                                                      02/02/2017-Till Date
-###### Bangalore, India 				                                                                			          02/23/2015-01/30/2017
+<h3>Senior DevOps Engineer at Accenture</h3>
+<p>
+Hartford, Connecticut &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;02/02/2017-Till Date<br>
+Bangalore, India&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;02/23/2015-01/30/2017
+</p>
 
 - I have been working as DevOps engineer for US based Insurance Company called Travelers for more than 3 years.
 - Create and maintain fully automated **CI/CD pipelines** for code deployment.
