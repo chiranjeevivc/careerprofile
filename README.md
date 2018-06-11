@@ -13,6 +13,9 @@
 # Professional Summary:
 <p align="justify"> Experienced <b>DevOps Engineer</b> who understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows Mac and Linux systems. Brings a <b>Bachelor’s Degree in Computer Science and Engineering</b> and has total of <b>6.3 years</b> of experience in IT field. </p>
 
+# Core Skills:
+> **Skills**: [Node.js](https://github.com/nodejs/node), [AngularJS](https://github.com/angular/angular.js), [MongoDB](https://github.com/mongodb/mongo), [Hygieia](https://github.com/capitalone/Hygieia), 
+
 # Core Qualifications:
 - Extremely knowledgeable about **CI/CD integration**.
 - Experienced with Interpreted Languages including **Perl and Python**
