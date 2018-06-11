@@ -68,11 +68,12 @@ Bangalore, India&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 - I have made use of tools like **Visual Studio (15)**, **Visual Studio Code** and **Eclipse** during the development.
 - Worked on unit tests and coverage report setup using **NUnit and OpenCover**
 
-#### Systems Engineer							          
-##### Tata Consultancy Services 
-###### Bangalore, India 							          03/22/2012-02/18/2015
+<h3>Systems Engineer at Tata Consultancy Services</h3>
+<p>
+Bangalore, India&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;03/22/2012-02/18/2015
+</p>
 
-#### Project1: Ericsson  
+<h2>Project1: Ericsson</h2>
 - Worked on telecom products like **TMF and AXE** for Italy, China and Sweden clients.
 - Handled roles like **test automation** and configuration management. 
 - Good in **code merge and release activities** with IBM’s Clear case.
@@ -82,7 +83,7 @@ Bangalore, India&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 - Test Automation with **TestNG.**
 - Tools and Skills: **Core Java, Eclipse, IBM Clearcase, Maven, Git, TestNG, Jenkins, TCP/IP Networking.**
 
-#### Project2: British Telecom
+<h2>Project2: British Telecom</h2>
 - Developer for **British Telecom** project working for UK clients.
 - Core Java skills with **Telecom Bundle Products.**
 - Migration of projects from **ant to maven.**
