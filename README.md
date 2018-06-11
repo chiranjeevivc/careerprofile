@@ -14,7 +14,7 @@
 <p align="justify"> Experienced <b>DevOps Engineer</b> who understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows Mac and Linux systems. Brings a <b>Bachelor’s Degree in Computer Science and Engineering</b> and has total of <b>6.3 years</b> of experience in IT field. </p>
 
 # Core Skills:
-> **Skills**: [Node.js](https://github.com/nodejs/node), [AngularJS](https://github.com/angular/angular.js), [MongoDB](https://github.com/mongodb/mongo), [Hygieia](https://github.com/capitalone/Hygieia), 
+> **Skills**: [Node.js](https://github.com/nodejs/node), [AngularJS](https://github.com/angular/angular.js), [MongoDB](https://github.com/mongodb/mongo), [Hygieia](https://github.com/capitalone/Hygieia), [Jenkins](https://jenkins.io/doc/), [Ant](https://ant.apache.org/), [Maven](https://maven.apache.org/), [Github](https://github.com/), [Selenium](https://www.seleniumhq.org/), [RallyKanban](https://help.rallydev.com/kanban-board), [PipelineSharedLibrary](https://jenkins.io/doc/book/pipeline/shared-libraries/), [RationalClearCase](https://en.wikipedia.org/wiki/Rational_ClearCase), [BMCRemedy](http://www.bmc.com/it-solutions/remedy-itsm.html), [Linux](https://en.wikipedia.org/wiki/Linux), [JUnit](https://github.com/junit-team/), [NUnit](https://github.com/nunit/nunit), [OpenCover](https://github.com/OpenCover/opencover), [Puppet](https://puppet.com/), [PivotalCloudFoundry](https://docs.pivotal.io/pivotalcf/2-1/pas/intro.html)
 
 # Core Qualifications:
 - Extremely knowledgeable about **CI/CD integration**.
