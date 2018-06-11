@@ -36,8 +36,8 @@
 # Career Profile:
 <h3>Senior DevOps Engineer at Accenture</h3>
 <p>
-Hartford, Connecticut &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;02/02/2017-Till Date<br>
-Bangalore, India&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;02/23/2015-01/30/2017
+Hartford,Connecticut &emsp;&emsp;: 02/02/2017-Till Date<br>
+Bangalore,India &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;: 02/23/2015-01/30/2017
 </p>
 
 - I have been working as DevOps engineer for US based Insurance Company called Travelers for more than 3 years.
@@ -73,7 +73,7 @@ Bangalore, India&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <h3>Systems Engineer at Tata Consultancy Services</h3>
 <p>
-Bangalore, India&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;03/22/2012-02/18/2015
+Bangalore, India &emsp;&emsp;&emsp;&emsp;: 03/22/2012-02/18/2015
 </p>
 
 ###### Project1: Ericsson
